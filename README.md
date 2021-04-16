@@ -2,11 +2,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 小程序Demo
 
---插座关闭
+插座关闭
 
-![image](https://user-images.githubusercontent.com/47957892/114968699-78e70600-9ea9-11eb-9089-d03c902ecae8.png)
+![image](https://user-images.githubusercontent.com/47957892/114968868-d0857180-9ea9-11eb-931f-d2f8ec522ee0.png)
 
+插座开启
 
---插座开启
-
-![image](https://user-images.githubusercontent.com/47957892/114968706-7c7a8d00-9ea9-11eb-83ee-1775b8fd2333.png)
+![image](https://user-images.githubusercontent.com/47957892/114968906-dc713380-9ea9-11eb-8411-c2a7a47f221c.png)
